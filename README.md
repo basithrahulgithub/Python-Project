@@ -1,2 +1,2 @@
-Ihis is a simple Python Restaurant Project using conditinal statements in python
+This is a simple Python Restaurant Project using conditinal statements in python
 # Python-Project
